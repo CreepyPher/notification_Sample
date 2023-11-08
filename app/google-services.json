@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58305890371",
+    "project_id": "firetraildb",
+    "storage_bucket": "firetraildb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58305890371:android:737f1f12af80b93b01acf6",
+        "android_client_info": {
+          "package_name": "com.example.notification_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58305890371-4dk94h1fn69m4d0ggf7ncddg928qb93k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ0-stC5i9oYv9W-8g5DjCBdvTF8xVubY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58305890371-4dk94h1fn69m4d0ggf7ncddg928qb93k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
